@@ -9,5 +9,5 @@ public class HomeWork4 {
         System.out.print(Math.sqrt(8)+" "+Math.sqrt(353)+" "+Math.sqrt(78)+" "+Math.sqrt(3)+" "+Math.sqrt(-67)+" "+Math.sqrt(723));
         System.out.print(Math.sqrt(2000)+" "+Math.sqrt(-100));
         System.out.println();
-    }
+    }//
 }

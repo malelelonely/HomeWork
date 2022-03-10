@@ -11,5 +11,5 @@ public class HomeWork5 {
         System.out.print(Math.pow(73,2)+" ");
         System.out.print(Math.pow(200,2)+" ");
         System.out.print(Math.pow(-22,2)+" ");
-    }
+    }//
 }
