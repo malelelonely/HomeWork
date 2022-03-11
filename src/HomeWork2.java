@@ -14,3 +14,4 @@ public class HomeWork2 {
         System.out.println("Sum of entered digit is : "+a+" + "+b+" = " + sum);
     }
 }
+//
