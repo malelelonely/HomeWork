@@ -1,16 +1,16 @@
-import java.util.Scanner;
 
 public class HomeWork2 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter two digit :");
-        System.out.println();
-        System.out.println("First digit : ");
-        int a = scanner.nextInt();
-        System.out.println("Second digit : ");
-        int b = scanner.nextInt();
+        int myInt = 43_112;
+        int myInt2 = -1_357_674;
+        int myInt3 = 1_357_674;
+        int myInt4 = -1_357_674_000;
+        long myLong = 3_657_895_000l;
 
-        int sum = a + b;
-        System.out.println("Sum of entered digit is : "+a+" + "+b+" = " + sum);
+        System.out.println("My int value : "+myInt);
+        System.out.println("My int2 value : "+myInt2);
+        System.out.println("My int3 value : "+myInt3);
+        System.out.println("My int4 value : "+myInt4);
+        System.out.println("My long value : "+myLong);
     }
 }
