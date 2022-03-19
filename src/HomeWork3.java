@@ -12,7 +12,9 @@ public class HomeWork3 {
         int evaluationOfForthStudent = 4;
         int evaluationOfFifthStudent = 5;
 
-        System.out.printf("Student     Evolution \n \n%s\t\t%d\n%s\t\t\t%d\n%s\t\t%d\n%s\t\t%d\n%s\t%d\n",firsStudent,evaluationOfFirstStudent,secondStudent,evaluationOfSecondStudent,thirdStudent,evaluationOfThirdStudent,forthStudent,evaluationOfForthStudent,fifthStudent,evaluationOfFifthStudent);
+        System.out.printf("Student     Evolution \n \n%s\t\t%d\n%s\t\t\t%d\n%s\t\t%d\n%s\t\t%d\n%s\t%d\n",
+                firsStudent,evaluationOfFirstStudent,secondStudent,evaluationOfSecondStudent, thirdStudent,evaluationOfThirdStudent
+                ,forthStudent,evaluationOfForthStudent,fifthStudent,evaluationOfFifthStudent);
 
 
 
