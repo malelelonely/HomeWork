@@ -18,7 +18,7 @@ public class HomeWork2 {
         if(BMI < 18.5){
             System.out.println("You are underweight !");
         }
-        else if(BMI >= 18.5 || BMI < 24.9){
+        else if(BMI >= 18.5 && BMI <= 24.9){
             System.out.println("You are normal weight !");
         }
         else {
