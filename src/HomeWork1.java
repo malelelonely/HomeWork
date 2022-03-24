@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class HomeWork1 {
     public static void main(String[] args) {
-        SpringSeason();
+        springSeason();
 
     }
-    public static void SpringSeason(){
+    public static void springSeason(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter month   :");
         int month = scanner.nextInt();
